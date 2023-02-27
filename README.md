@@ -1,0 +1,1 @@
+Welcome to the C++ Examples repository! This repository contains a collection of simple C++ code examples that provide beginners and intermediate level programmers with a variety of code snippets that they can learn from, modify, and use in their own projects.
