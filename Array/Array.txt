@@ -1,0 +1,9 @@
+An array is used to easily access and process data.It is a collection of elements of same datatype.
+  For Example:
+              int arr[10]
+ This is an array containing elements of integer datatype, 'arr' is array name and '10' is the size of array (in bits).
+
+            *The index of an array always starts from zero.*
+    An array arr[i] is interpreted as *(arr+i). Here, 'arr' denotes the address of the first array element.
+  So *(arr+i) means the element at i distance from the first element of the array.
+   Array index starts from 0 as initially i is 0 which means the first element of the array.
