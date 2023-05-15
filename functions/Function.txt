@@ -1,0 +1,20 @@
+	Function
+          A function is a piece of code tht is used to perform a specific task.
+for example:
+         void sum(int a, int b);
+	 int main()
+		{
+		
+		}
+	    void sum(int a, int b)
+		{
+		    cout<< a+b ;
+		}
+
+
+	Types of function :
+	 	There are two types if functions:
+			1- User defined
+			2- Pre defined
+			
+	 		
